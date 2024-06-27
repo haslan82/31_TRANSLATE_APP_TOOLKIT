@@ -1,8 +1,8 @@
 import { configureStore } from "@reduxjs/toolkit";
-import languageSlice from "./slices/languageSlice";
+import languageReducer from "./slices/languageSlice"
+import translateReducer from "./slices/translateSlice";
 
-export default configureStore(
-     { 
-    reducer:{languageSlice},
-    }
-)
+
+export default configureStore({ 
+    reducer:{languageReducer, translateReducer},
+    });
