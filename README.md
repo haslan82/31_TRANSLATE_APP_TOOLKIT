@@ -6,7 +6,7 @@
 
 
 
-# Libraries
+## Libraries
 
 - axios
 - @reduxjs/toolkit
@@ -15,14 +15,14 @@
 - tailwind
 
 
-# API
+### API
 
 - https://rapidapi.com/dickyagustin/api/text-translator2
 
 
 
-# GIF
+## Gif
 
 ![](/public/translater%20gif.gif)
 
-##  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
+###  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
